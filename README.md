@@ -42,8 +42,10 @@
 
 # Project Sceen Shots
 
-![WorkSmart1](WorkSmart1.png)   
-![WorkSmart2](WorkSmart2.png)    
+![WorkSmart1](WorkSmart1.png)  
+
+![WorkSmart2](WorkSmart2.png) 
+
 ![WorkSmart3](WorkSmart3.png)     
 
 
