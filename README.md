@@ -51,34 +51,32 @@
 
 # File Structure - Front-End
 
-# public/
+    # public/
     This is where your application will be compiled. Assets, like images and fonts, should be placed directly within this folder. Also in this folder is a default index.html file for serving up the application.
 
-# src/
+    # src/
     The client folder houses the client application for the project. This is where the client-side Javascript components and React components live.
 
-# src/main-container 
+    # src/main-container 
     This is where the Login and Navigation files are located.It handles the Login and Signup.The Nav components handle the login by generating the profile link deppending on the user as a simple user or company.
 
-# src/content 
+    # src/content 
     The Content components handles the fetches depending who the user is and shows jobs and companyies that are releated to that user.Also different Route paths are handled in this component.
 
-# src/components 
+    # src/components 
     This folder contains all the reusable components for jobs and companies.
 
-# scr/child-compoentns
+    # scr/child-compoentns
     This folder contains all the card component for a single company and jobs card and container.
 
 
 
 # File Structure - Back-End
 
-# app/
-
+    # app/
     This is where the subdirectories for models, views, controllers and serializers are located.
 
-# db/
-
+    # db/
     This is where the migratin,schema and all the seeded data are located.
 
 
