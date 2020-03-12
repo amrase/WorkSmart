@@ -40,7 +40,7 @@
     Utilized JSON Web Tokens and localStorage to store encrypted user information with the JWT algorithm.
 
 
-# Project Sceen Shot
+# Project Sceen Shots
 
 ![WorkSmart1](WorkSmart1.png)   
 ![WorkSmart2](WorkSmart2.png)    
